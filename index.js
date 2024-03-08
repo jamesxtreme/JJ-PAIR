@@ -20,16 +20,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : baileys-qr
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/SuhailTechInfo
+   * @project_name : J-JPAIR
+   * @author : Jordan-Joelstar
+   * @channel : https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P
    * @description : Get baileys qr, where session id Converted into 'base64'. You can change it According to your needs.
    * @version 1.0.0
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
-   * © 2023 Suhail-Md.
+   * Created By 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁.
+   * © 2023 𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁
 */
 
 const fs   = require("fs-extra");
@@ -86,16 +86,16 @@ Thanks.
 `)   
 
 let cc = `╔════◇
-║『 *THANKS FOR CHOOSING SUHAIL-MD* 』
-║ _You complete first step to making Bot._
+║『 *NICE ONE BOSS. THANKS FOR CHOOSING JORDAN-JOELSTAR 🤖* 』
+║ _You've completed the first step to making your Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *1.Github:* _github.com/suhailtechinfo_
-║ *2.Ytube:* _youtube.com/suhailtechinfo_
-║ *3.Owner:* _https://wa.me/923184474176_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
+║ *1.🕸️Github🕸️:* _github.com/jamesxtreme_
+║ *2.🕷️Channel🕷️:* _https://whatsapp.com/channel/0029VaCamn3BKfi29OjdbG2P_
+║ *3.🤟🏽Owner🤟🏽:* _https://wa.me/2349054039891_
+║ *🤖Note🤖:*_Don't provide your SESSION_ID to_
+║ _anyone otherwise anyone can access chats_
 ╚════════════════════════╝
 `;
           let session_id = await session.sendMessage(user, { text: c });      //SENDING 'base64' SESSION ID TO USER NUMBER
