@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/KtwIw190SAAGWP2UJdPiDQ">
-    <img alt="Jordan-Joelstar" height="400" src="https://i.imgur.com/NpA3ZsJ.jpeg">
+    <img alt="Jordan-Joelstar" height="400" src="https://telegra.ph/file/5a06979ab4afb8ab7dccb.jpg">
   </a>
 </p>
 
@@ -26,13 +26,6 @@
   </body>
 </html>
 
-## Features
----
-1. ***WhatsApp Login***
-2. ***Session Generator***
-3. ***Bailey-library Login***
-4. ***No Encryption, Free fo Use***
-##
 
 
 
@@ -40,11 +33,4 @@
 ## Installation
 ---
 1.  ***Run on [`Replit`](https://replit.com/github/jamesxtreme/J-JPAIR)***
-2. ***Run manually in any terminal Terminal, `TERMUX, VPS, RDP, etc.`***
-```
-$ git clone https://replit.com/github.com/SuhailTechInfo/Baileys-Qr.git
-$ cd suhail-qr
-$ npm i
-$ npm start
-```
-##
+
