@@ -32,5 +32,5 @@
 
 ## Installation
 ---
-1.  ***Run on [`Replit`](https://replit.com/github/jamesxtreme/J-JPAIR)***
+1.  ***Run on [`Replit`](https://replit.com/github/jamesxtreme/JJ-PAIR)***
 
